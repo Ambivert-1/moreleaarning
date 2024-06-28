@@ -1,7 +1,11 @@
 {
     "firstName": "Jane",
     "lastName": "Doe",
-    "hobbies": ["running", "sky diving", "singing"],
+    "hobbies": [
+        "running",
+        "sky diving",
+        "singing"
+    ],
     "age": 35,
     "children": [
         {
@@ -11,6 +15,10 @@
         {
             "firstName": "Bob",
             "age": 8
+        },
+        {
+            "firstName": "Gita",
+            "age": 4
         }
     ]
 }
